@@ -318,7 +318,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.13",
+  "lastShownStartupVersion": "4.0.14",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -1443,7 +1443,7 @@
       "info": {
         "id": "claude-fable-5-1[1m]",
         "displayName": "Fable",
-        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks"
+        "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · Requires usage credits"
       },
       "configuredModelId": "d0ff1bec-5f7a-4bba-ab9b-503d165bffb8",
       "configuredAt": 1789379718780
@@ -1480,15 +1480,6 @@
     {
       "providerId": "2f7268ee-6447-473b-9ba4-954bed287fa3",
       "info": {
-        "id": "opencode/fledge-alpha-free",
-        "displayName": "OpenCode Zen/Fledge Alpha Free"
-      },
-      "configuredModelId": "a55668e5-55eb-43b4-b34a-7562b5a15afa",
-      "configuredAt": 1791356191916
-    },
-    {
-      "providerId": "2f7268ee-6447-473b-9ba4-954bed287fa3",
-      "info": {
         "id": "opencode/ling-3.1-flash-free",
         "displayName": "OpenCode Zen/Ling 3.1 Flash Free"
       },
@@ -1521,6 +1512,15 @@
       },
       "configuredModelId": "693e45c9-8bad-4468-aa45-26ed272824b9",
       "configuredAt": 1791356191917
+    },
+    {
+      "providerId": "2f7268ee-6447-473b-9ba4-954bed287fa3",
+      "info": {
+        "id": "opencode/step-5-preview-free",
+        "displayName": "OpenCode Zen/Step 5 Preview Free"
+      },
+      "configuredModelId": "e3d32b64-8015-42a6-ba2a-4e77b8e65130",
+      "configuredAt": 1791607486014
     }
   ],
   "backends": {

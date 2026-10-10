@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "39bf0fb77d59fc3a",
-        "type": "tabs",
+        "id": "0a495df37ec78c2b",
+        "type": "split",
         "children": [
           {
-            "id": "eb7e8781284f260a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
+            "id": "354fcbdeea80ea56",
+            "type": "tabs",
+            "dimension": 19.379844961240313,
+            "children": [
+              {
+                "id": "8e369a011342421b",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "HarnessSample_20pin.svg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "HarnessSample_20pin"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3cfd5e9ec49717db",
+            "type": "tabs",
+            "dimension": 80.62015503875969,
+            "children": [
+              {
+                "id": "47ad9a7c3e8cfe0e",
+                "type": "leaf",
+                "state": {
+                  "type": "diagrams-net",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Diagram"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -219,37 +246,41 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eb7e8781284f260a",
+  "active": "47ad9a7c3e8cfe0e",
   "lastOpenFiles": [
+    "HarnessSample_4pin_and_14pin.svg",
+    "~$rover_harness_bom_plan1_20pin.xlsx",
+    "~$rover_harness_bom_plan2_4p14p.xlsx",
+    "rover_harness_bom_plan2_4p14p.xlsx",
+    "rover_harness_bom_plan1_20pin.xlsx",
+    "HarnessSample_4pin_and_14pin.svg.xml",
+    "HarnessSample_20pin.svg",
+    "HarnessSample_4pin_and_14pin.xml",
+    "HarnessSample_20pin.svg - コピー.xml",
+    "HarnessSample_20pin - コピー.svg",
+    "HarnessSample.svg",
+    "HarnessSample_20pin.svg.xml",
+    "HarnessSample.svg.xml",
+    "HarnessSample_20pin - コピー.drawio",
+    "2026-09-14.md",
     "HarnessModel.svg",
     "Harness model.md",
     "2026-09-15.md",
     "Memo.md",
-    "HarnessModel.svg.xml",
     "MizuniGoal_PowerController.md",
     "無題のファイル.canvas",
     "Untitled Diagram.svg",
     "Untitled Diagram 2.svg",
     "Untitled Diagram 1.svg",
-    "無題のファイル.base",
     "無題のファイル 2.md",
     "無題のファイル 1.md",
-    "2026-09-14.md",
     "copilot/copilot-conversations/agent__Memo_の空行の隙間は統一してください。@20260914_184448.md",
-    "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/json-canvas/references",
-    "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
