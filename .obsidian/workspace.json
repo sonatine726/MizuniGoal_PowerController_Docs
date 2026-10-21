@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0a495df37ec78c2b",
-        "type": "split",
+        "id": "354fcbdeea80ea56",
+        "type": "tabs",
         "children": [
           {
-            "id": "354fcbdeea80ea56",
-            "type": "tabs",
-            "dimension": 19.379844961240313,
-            "children": [
-              {
-                "id": "8e369a011342421b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "HarnessSample_20pin.svg"
-                  },
-                  "icon": "lucide-image",
-                  "title": "HarnessSample_20pin"
-                }
-              }
-            ]
-          },
-          {
-            "id": "3cfd5e9ec49717db",
-            "type": "tabs",
-            "dimension": 80.62015503875969,
-            "children": [
-              {
-                "id": "47ad9a7c3e8cfe0e",
-                "type": "leaf",
-                "state": {
-                  "type": "diagrams-net",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Diagram"
-                }
-              }
-            ]
+            "id": "8e369a011342421b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "HarnessSample_4pin_and_14pin.svg"
+              },
+              "icon": "lucide-image",
+              "title": "HarnessSample_4pin_and_14pin"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,15 +221,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47ad9a7c3e8cfe0e",
+  "active": "8e369a011342421b",
   "lastOpenFiles": [
+    "書き込み治具_接点レイアウト.png",
+    "2026-09-14.md",
     "HarnessSample_4pin_and_14pin.svg",
+    "HarnessSample_20pin.svg",
     "~$rover_harness_bom_plan1_20pin.xlsx",
     "~$rover_harness_bom_plan2_4p14p.xlsx",
     "rover_harness_bom_plan2_4p14p.xlsx",
     "rover_harness_bom_plan1_20pin.xlsx",
     "HarnessSample_4pin_and_14pin.svg.xml",
-    "HarnessSample_20pin.svg",
     "HarnessSample_4pin_and_14pin.xml",
     "HarnessSample_20pin.svg - コピー.xml",
     "HarnessSample_20pin - コピー.svg",
@@ -262,7 +239,6 @@
     "HarnessSample_20pin.svg.xml",
     "HarnessSample.svg.xml",
     "HarnessSample_20pin - コピー.drawio",
-    "2026-09-14.md",
     "HarnessModel.svg",
     "Harness model.md",
     "2026-09-15.md",
