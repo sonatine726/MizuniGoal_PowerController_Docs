@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "354fcbdeea80ea56",
-        "type": "tabs",
+        "id": "655aa28de7491d39",
+        "type": "split",
         "children": [
           {
-            "id": "8e369a011342421b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "HarnessSample_4pin_and_14pin.svg"
-              },
-              "icon": "lucide-image",
-              "title": "HarnessSample_4pin_and_14pin"
-            }
+            "id": "32efa9fea019da6d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f2421a5b3c83f72d",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "HarnessSample_4pin_and_14pin.svg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "HarnessSample_4pin_and_14pin"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6fddf99326915496",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10ebcd464a516524",
+                "type": "leaf",
+                "state": {
+                  "type": "diagrams-net",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Diagram"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -221,33 +244,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e369a011342421b",
+  "active": "10ebcd464a516524",
   "lastOpenFiles": [
+    "~$rover_harness_bom_v1.xlsx",
+    "HarnessModel.svg",
+    "HarnessSample_4pin_and_14pin.svg",
+    "Harness.md",
+    "MizuniGoal_PowerController.md",
+    "MizuniGoal_PowerController_v2_2_1_試験記録シート_rev1.xlsx",
+    "MizuniGoal Power Controller v2.2.1 保護機能仕様.docx",
+    "MizuniGoal_PowerController_v3_0_0_試験記録シート_rev2.xlsx",
+    "HarnessSample_4pin_and_14pin__length_research.svg",
+    "HarnessSample_4pin_and_14pin____length_research.svg",
+    "HarnessSample_4pin_and_14pin - コピー.svg",
+    "HarnessSample_4pin_and_14pin__length_research.svg.xml",
+    "HarnessSample_4pin_and_14pin.svg - コピー.xml",
+    "~$MizuniGoal_PowerController_v3_0_0_試験記録シート.xlsx",
+    "rover_harness_bom_v1.xlsx",
+    "current_voltage_addition_review.xlsx",
     "書き込み治具_接点レイアウト.png",
     "2026-09-14.md",
-    "HarnessSample_4pin_and_14pin.svg",
     "HarnessSample_20pin.svg",
     "~$rover_harness_bom_plan1_20pin.xlsx",
-    "~$rover_harness_bom_plan2_4p14p.xlsx",
-    "rover_harness_bom_plan2_4p14p.xlsx",
-    "rover_harness_bom_plan1_20pin.xlsx",
-    "HarnessSample_4pin_and_14pin.svg.xml",
-    "HarnessSample_4pin_and_14pin.xml",
-    "HarnessSample_20pin.svg - コピー.xml",
     "HarnessSample_20pin - コピー.svg",
     "HarnessSample.svg",
-    "HarnessSample_20pin.svg.xml",
-    "HarnessSample.svg.xml",
-    "HarnessSample_20pin - コピー.drawio",
-    "HarnessModel.svg",
     "Harness model.md",
     "2026-09-15.md",
     "Memo.md",
-    "MizuniGoal_PowerController.md",
     "無題のファイル.canvas",
     "Untitled Diagram.svg",
-    "Untitled Diagram 2.svg",
-    "Untitled Diagram 1.svg",
     "無題のファイル 2.md",
     "無題のファイル 1.md",
     "copilot/copilot-conversations/agent__Memo_の空行の隙間は統一してください。@20260914_184448.md",
@@ -266,7 +291,6 @@
     "copilot/skills/copilot-fetch-x/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/copilot-read-pdf/SKILL.md",
-    "copilot/skills/copilot-web-fetch/SKILL.md",
-    "copilot/skills/copilot-web-search/SKILL.md"
+    "copilot/skills/copilot-web-fetch/SKILL.md"
   ]
 }
