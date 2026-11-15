@@ -4,58 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "655aa28de7491d39",
-        "type": "split",
+        "id": "32efa9fea019da6d",
+        "type": "tabs",
         "children": [
           {
-            "id": "32efa9fea019da6d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f2421a5b3c83f72d",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "HarnessSample_4pin_and_14pin.svg"
-                  },
-                  "icon": "lucide-image",
-                  "title": "HarnessSample_4pin_and_14pin"
-                }
-              }
-            ]
-          },
-          {
-            "id": "6fddf99326915496",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "10ebcd464a516524",
-                "type": "leaf",
-                "state": {
-                  "type": "diagrams-net",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Diagram"
-                }
+            "id": "f2421a5b3c83f72d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "HarnessSample_4pin_and_14pin.svg"
               },
-              {
-                "id": "64790038f77009c0",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.14.5"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "リリースノート 1.14.5"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-image",
+              "title": "HarnessSample_4pin_and_14pin"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +221,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "64790038f77009c0",
+  "active": "f2421a5b3c83f72d",
   "lastOpenFiles": [
+    "~$rover_harness_bom_v2.xlsx",
     "~$rover_harness_bom_v1.xlsx",
     "HarnessModel.svg",
     "HarnessSample_4pin_and_14pin.svg",
